@@ -3,7 +3,19 @@
 	font-style: italic;
 }
 
-#timeline {
+#top {
+	margin-bottom: 25px;
+}
+
+#content {
 	margin-left: 200px;
 	margin-right: 200px;
+	font-size: 15px;
+}
+
+#more-info {
+	font-size: 25px;
+	margin-top: 25px;
+	margin-bottom: 25px;
+	text-align: center
 }
